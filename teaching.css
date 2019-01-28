@@ -1,0 +1,89 @@
+.father{
+    background-color: yellow;
+     height: 700px;
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+    justify-content: space-between;
+   
+   
+
+
+    
+/*
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+   
+*/
+    
+    
+    
+/*
+    flex-direction: column;
+    align-items: center;
+*/
+   
+
+   
+}
+
+.father p{
+    background-color: greenyellow;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+  
+   
+    
+/*
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+*/
+/*    align-items: center;*/
+   
+    
+ 
+ 
+  
+
+}
+
+.one{
+   order: 6
+ 
+}
+
+.two{
+     order: 5
+}
+
+.three{
+    
+ order: 1
+}
+.four{
+ order: 2
+    
+}
+
+.five{
+    order: 3
+    
+    
+}
+.six{
+    order: 4
+    
+}
+
+
+
+
